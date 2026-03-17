@@ -3,6 +3,6 @@ public class Lama{
     private String tierlaut = "Möööht";
 
     public Lama(){
-        System.out.println("Neues Lama erstellt");
+        System.out.println("Lama erstellt");
     }
 }
