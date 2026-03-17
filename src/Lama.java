@@ -9,7 +9,7 @@ public class Lama{
         this.tiername = tiername;
         this.tierlaut = tierlaut;
         System.out.println("Lama "+ tiername + " erstellt.");
-        System.out.println(tierlaut);
+        System.out.println("Es sagt: " + tierlaut);
     }
 
 }
