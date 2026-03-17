@@ -4,5 +4,7 @@ public class Lama{
 
     public Lama(){
         System.out.println("Lama erstellt");
+        System.out.println(tierlaut);
     }
+
 }
